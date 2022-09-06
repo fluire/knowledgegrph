@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "3abcaee2c41fb607",
+    "type": "split",
+    "children": [
+      {
+        "id": "519b02b1b90ce08e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tensorflow/CNN.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "227f147041eb1a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b47eb6b5a5984df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ad595de25217201",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6de26f031a01b860",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "t-",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44ed60551ea5c3fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "313930502ba4ff88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47c916c31dff8427",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tensorflow/CNN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a0e4bf98747c6f34",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1ad595de25217201",
+  "lastOpenFiles": [
+    "images/Pasted image 20220906124022.png",
+    "tensorflow/CNN.md",
+    "Untitled.md",
+    "images/Pasted image 20220813144649.png",
+    "images/Pasted image 20220801191453.png",
+    "images/Pasted image 20220801190652.png",
+    "images/Pasted image 20220801190821.png",
+    "images/Pasted image 20220801190536.png",
+    "mlops/Define Data and establish baseline.md",
+    "Hard and Soft Assets.md"
+  ]
+}

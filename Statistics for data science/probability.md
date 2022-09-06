@@ -1,0 +1,17 @@
+- [[statistics]]
+- random variable:
+	- quantity whose possible value depend, in some clearly-defined way, on a set of random events.
+- probability distribution:
+	- theoretical model depicting the possible values a random variable may assume along with the probability of occurance.
+- How to state your hypothesis:
+	- null hypothesis
+	- alternate hypothesis
+	- significant level (α) - often 5% 
+	- P-value 
+		- is the probability that a random chance generate data , or something else that is equal to or rarer.
+		- the likelihood of observing that particular sample value if the null hypothesis were true. if p value is less than significant level we reject null hypothesis.otherwise we FAIL TO REJECT the null hypothesis.
+- normal distribution
+	- depends on variable , mean and standard deviation.
+	- ![[Pasted image 20220527161037.png]]
+	- standard normal
+		- if mean = 0 and standard deviation = 1

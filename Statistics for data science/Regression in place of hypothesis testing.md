@@ -1,0 +1,8 @@
+- it  can replace various tests like t-test, ANOVA, CHI squared.
+- terminologies
+	- dependent: the variable we r interested in.
+	- Explanatory variable: variables that influence the dependent variable.
+-  in short : 
+	- y = ß0 + ß1.x1+ß2.x2+error
+	- error -> the difference between the actual teaching evaluation score and the predicted score from the model.
+- steps for regression 

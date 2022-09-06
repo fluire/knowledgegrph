@@ -1,0 +1,23 @@
+- ## modeling overview
+	- Data centric and model centric ai training
+	- # AI = CODE + DATA
+	- ## challenges in model development
+		- Doing well on training set.
+		- doing well on test set.
+		- doing well on business metrics / project goals.
+		- Rare classes
+	*few points to ponder
+		- explicitly providing weight to the certain example to get desired results is not a good practice.
+	- establishing baseline:
+		- like HLP -> human level performance (unstructured data)
+		- literature search for state of the art
+		- quick and dirty implementation
+		- performance of older system.
+		- *ask for time to establish baseline*
+	- **A REASONALBLE ALGORITHM WITH GOOD DATA WILL OFTEN OUTPERFORM A GREAT ALGORITHM WITH NOT SOGOOD DATA**
+	- deployment constraints when picking a model:
+		- Yes consider is base line is established.
+		- no, if purpose is to establish a baseline and determine what is possible and might worth pursuing.
+	- sanity check -> try to overfit one example before training on large dataset. 
+	- to check the error analysis and  [[error analysis and performance auditing]]
+	
