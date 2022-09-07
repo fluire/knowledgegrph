@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "tensorflow/CNN.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "44ed60551ea5c3fe",
@@ -96,7 +97,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ad595de25217201",
+  "active": "519b02b1b90ce08e",
   "lastOpenFiles": [
     "images/Pasted image 20220906124022.png",
     "tensorflow/CNN.md",
