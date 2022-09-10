@@ -20,4 +20,5 @@
 		- no, if purpose is to establish a baseline and determine what is possible and might worth pursuing.
 	- sanity check -> try to overfit one example before training on large dataset. 
 	- to check the error analysis and  [[error analysis and performance auditing]]
-	
+### a link on creating CNN
+	- [[CNN]]

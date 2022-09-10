@@ -77,3 +77,4 @@
 	- scoping process:
 		- brainstorm business problems-> brainstorm AI solutions ->check feasibility in terms of resource
 	- ![[Pasted image 20220813144649.png]]
+	- datagenerating link : [[ImageDatagenerator]]
