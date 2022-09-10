@@ -1,0 +1,2 @@
+- so its sometime clumsy task to get a gather data n its labels and load for modeling, so Imagedatagenerator helps to do the same 
+- 
