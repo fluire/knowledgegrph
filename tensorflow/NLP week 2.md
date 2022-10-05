@@ -1,0 +1,6 @@
+- Previous week
+	- tokenizer -> OOV word handling
+	- sequence generator
+	- padding
+- Word embeddings
+	- 
