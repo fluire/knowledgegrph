@@ -3,4 +3,19 @@
 	- sequence generator
 	- padding
 - Word embeddings
-	- 
+	- exercise through imdb review
+		- loading data using tensorflowdatasets -> dividing to train and test -> with two sets of data in each namely sentences and label.
+		- ![[Pasted image 20221005170814.png]]
+		- then doing the process done in previous week 
+		- ![[Pasted image 20221005170904.png]]
+		- define neural net:
+			- we use embedding layer in the begning.
+			- ![[Pasted image 20221005171147.png]]
+			- model.compile...
+			- model.fit()
+		- how to get the embeddings layer weights
+			- ![[Pasted image 20221005172451.png]]
+			- reversewordindex = token.wordindex()
+			- ![[Pasted image 20221005172616.png]]
+			- VECS AND META CAN BE PLOTED IN TENSORFLOW WEBSITE FOR EMBEDDING VISUALIZATION.
+			- 
