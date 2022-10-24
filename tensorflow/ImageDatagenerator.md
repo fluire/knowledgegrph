@@ -8,3 +8,5 @@ tf.keras.preprocessing.image.ImageDataGenerator(    featurewise_center=False,�
 - why this:
 	- consider this storage structure directly give traindir to the method and it will load the data with automatic giving the label human and horse.
 	- you can even specify the size and batch of the image and many more options.
+	- we can use validation_datagen instead of train_datagen to get a dataset crated for validation and pass it while model .fit().
+	- 
