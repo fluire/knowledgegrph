@@ -3,5 +3,6 @@
   "monospaceFontFamily": "JetBrains Mono",
   "cssTheme": "Yin and Yang",
   "baseFontSize": 52,
-  "translucency": true
+  "translucency": true,
+  "accentColor": ""
 }

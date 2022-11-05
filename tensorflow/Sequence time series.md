@@ -1,0 +1,9 @@
+ - univariate and multi variate time series variables
+ - ##### things we can do using machine learning in time series
+	 - FORECAST future trend
+	 - know trends in past time -> imputation ->what the data would have been-> fill up the missing data points.
+	 - detect anomalies.
+	 - spot patterns -> to analyze sound to know the word said.
+- TREND 📈, SEASONALITY☁⛅⛈☁⛅⛈, WHITE NOISE , AUTOCORRERALTED (have previous mem and sudden spikes called innovations), NON-STATIONARY TIME SERIES.
+- unlike more data more accuracy non stationary time series requires optimal time window for making accurate predictions.
+- 

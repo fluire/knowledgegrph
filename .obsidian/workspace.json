@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "41c182ededb33897",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NLP.md",
-            "mode": "source",
-            "source": false
+        "id": "21b0218523c743bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519b02b1b90ce08e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tensorflow/Sequence time series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -53,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "44ed60551ea5c3fe",
@@ -70,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP.md",
+                "file": "tensorflow/Sequence time series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,26 +95,34 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "a2fd7de177474677",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "41c182ededb33897",
+  "active": "1ad595de25217201",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "tensorflow/NLP.md",
+    "tensorflow/Sequence time series.md",
     "tensorflow/ImageDatagenerator.md",
     "data cleaning.md",
     "mlops/select and train model.md",
     "tensorflow/CNN.md",
     "mlops/Define Data and establish baseline.md",
-    "tensorflow/NLP week 2.md",
     "images/Pasted image 20220906124022.png",
-    "NLP.md",
-    "images/Pasted image 20220813144649.png",
-    "images/Pasted image 20220801191453.png"
+    "images/Pasted image 20220813144649.png"
   ]
 }
