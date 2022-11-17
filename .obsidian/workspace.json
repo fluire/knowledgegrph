@@ -11,12 +11,8 @@
             "id": "519b02b1b90ce08e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tensorflow/Sequence time series.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tensorflow/Sequence time series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +107,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ad595de25217201",
+  "active": "519b02b1b90ce08e",
   "lastOpenFiles": [
+    "tensorflow/Sequence time series.md",
     "Untitled 1.md",
     "tensorflow/NLP.md",
-    "tensorflow/Sequence time series.md",
     "tensorflow/ImageDatagenerator.md",
     "data cleaning.md",
     "mlops/select and train model.md",
