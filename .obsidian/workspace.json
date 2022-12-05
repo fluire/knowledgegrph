@@ -11,11 +11,26 @@
             "id": "519b02b1b90ce08e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20221126192712.png"
+              }
+            }
+          },
+          {
+            "id": "85ded67cd268e179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tensorflow/Sequence time series.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +88,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "tensorflow/Sequence time series.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -92,32 +108,30 @@
             }
           },
           {
-            "id": "a2fd7de177474677",
+            "id": "cfc06f80e032423d",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "519b02b1b90ce08e",
+  "active": "85ded67cd268e179",
   "lastOpenFiles": [
-    "tensorflow/Sequence time series.md",
-    "Untitled 1.md",
-    "tensorflow/NLP.md",
-    "tensorflow/ImageDatagenerator.md",
-    "data cleaning.md",
-    "mlops/select and train model.md",
-    "tensorflow/CNN.md",
-    "mlops/Define Data and establish baseline.md",
-    "images/Pasted image 20220906124022.png",
-    "images/Pasted image 20220813144649.png"
+    "images/Pasted image 20221126182824.png",
+    "document image preprocessing.md",
+    "Visualizations.md",
+    "images/Pasted image 20221126192712.png",
+    "images/Pasted image 20221005170814.png",
+    "images/Pasted image 20221115102140.png",
+    "images/Pasted image 20221115103922.png",
+    "images/Pasted image 20221115104007.png",
+    "images/Pasted image 20221120142918.png",
+    "tensorflow/Sequence time series.md"
   ]
 }
